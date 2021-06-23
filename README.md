@@ -1,4 +1,3 @@
-# Sudoku Validation
-Here is a simple python program to see if a sudoku template is valid or not.
-the significant point is that the program is developed using Threads because each subproblem(e.g. column validation) is 
-independent from another one.
+# Sudoku Validator
+Here is a Python3 program to check if a sudoku solution is valid or not.
+The significant point is that the program is developed using the Python3 thread library, so each sub-validator (e.g. column validator) runs independently from other ones.
